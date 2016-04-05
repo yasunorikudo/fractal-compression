@@ -5,10 +5,7 @@ Fractal Compression
 
 # Requirements
 
-- numpy 1.9+
-- scipy 0.16+
-- scikit-learn 0.15+
-- OpenCV 2.4+
+- numpy 
 
 # Start Compression
 
